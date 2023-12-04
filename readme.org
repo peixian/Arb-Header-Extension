@@ -1,0 +1,17 @@
+* Arbitrary Header Extension
+
+- You pick and add headers to all your outgoing requests.
+- I wrote this because the other one https://chromewebstore.google.com/detail/modheader-modify-http-hea/idgpnmonknjnojddfkpgkljpfnnfcklj seems to inject ads and the other https://chromewebstore.google.com/detail/requestly-open-source-htt/mdnleldcmiljblolnjhpnblkcekpdkpa seems to have a goddamn product hunt page.
+
+** Examples
+![ui.png](ui.png)
+![example.png](example.png)
+
+
+
+
+* Usage
+- Use by cloning -> chrome://extensions/ -> load unpacked.
+
+* License
+Apache 2.0
